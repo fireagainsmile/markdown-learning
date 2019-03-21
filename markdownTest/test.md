@@ -160,7 +160,7 @@ _斜体_
 
 [点击跳转](https://www.baidu.com)
 
-![图片名称]（https://upload-images.jianshu.io/upload_images/6860761-fd2f51090a890873.jpg?imageMogr2/auto-orient/)
+![图片名称](https://upload-images.jianshu.io/upload_images/6860761-fd2f51090a890873.jpg?imageMogr2/auto-orient/)
 
 代码示例
 
