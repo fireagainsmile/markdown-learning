@@ -90,10 +90,10 @@ _   底线
 >>    [reference](https://www.jianshu.com/p/31eade263e7a) 
 >* 字体大小及颜色   ` <font size = 5 color = red> 特效字体</font>` 
   
-
-了计算机欧非
-
-# 效果示例
+## 参考资料    
+&ensp;&ensp;[作业部落示例](https://www.zybuluo.com/mdeditor)    
+&ensp;&ensp;[少数派示例](https://sspai.com/post/45816)
+## 效果示例
 
 # 一级标题
 
